@@ -1,0 +1,9 @@
+data/
+pretrained/
+outputs/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+wandb/
